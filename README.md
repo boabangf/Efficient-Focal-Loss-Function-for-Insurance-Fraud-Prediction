@@ -15,3 +15,5 @@ multistage=multistage
 nonconvex=nonconvex(gamma=2)
 
 Hybrid=nonconvex(gamma=4)
+
+Tensorflow version=2.13.1
