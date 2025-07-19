@@ -5,3 +5,9 @@ Abstract
 
 
 **Dataset***:https://zenodo.org/records/13381118
+
+For results in the excel file
+convex== convex
+multistage=multistage
+nonconvex=nonconvex(gamma=2)
+Hybrid=nonconvex(gamma=4)
