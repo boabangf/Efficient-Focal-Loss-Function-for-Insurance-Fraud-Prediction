@@ -1,5 +1,0 @@
-Schedule,Label,AUC
-Convex Only,"Convex, fixed class weight(1 - p_t)^γ",0.6728574378686558
-Multistage_1,Multistage,0.6894465119204949
-Nonconvex Only,"Nonconvex, gamma=2",0.6642201609299628
-Hybrid,"Nonconvex, gamma=4",0.675380631133162
