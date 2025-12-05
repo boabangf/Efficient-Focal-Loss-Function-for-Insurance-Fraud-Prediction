@@ -1,0 +1,5 @@
+Schedule,Label,AUC
+Convex Only,"Convex, alpha=0.1",0.5316949948305891
+Multistage_1,Three stage,0.6303467531487696
+Nonconvex Only,"Nonconvex, alpha=0.25",0.5860442598876
+Hybrid,"Nonconvex, alpha=0.5",0.580044084251471
